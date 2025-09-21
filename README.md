@@ -29,7 +29,8 @@ There are 2067 missing values in the column pm 2.5. (PM stands for particulate m
 * Is: Cumulated hours of snow
 * Ir: Cumulated hours of rain
 
-# Outliers: In time-series data like the Beijing PM2.5 dataset, backward fill (bfill) and forward fill (ffill) are simple but effective strategies to handle missing values.
+# Outliers: 
+In time-series data like the Beijing PM2.5 dataset, backward fill (bfill) and forward fill (ffill) are simple but effective strategies to handle missing values.
 
 # Regression model evaluation metrics
 
