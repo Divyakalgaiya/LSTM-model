@@ -1,5 +1,4 @@
 # Model: LSTM
-Regression problem
 Long Short-Term Memory (LSTM) was designed to address the vanishing gradient issue faced by traditional RNNs when learning long-term dependencies in sequential data. LSTMs are capable of maintaining information over extended periods because of memory cells and gating mechanisms.
 # Dataset: This hourly data set contains the PM2.5 data of the US Embassy in Beijing. Meanwhile, meteorological data from Beijing Capital International Airport are also included.
 
